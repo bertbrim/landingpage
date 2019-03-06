@@ -1,0 +1,19 @@
+.jumbotron {
+    background: url('../img/background.jpg') no-repeat center center fixed/cover;
+    min-height: 100vh;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif; 
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Rubik', sans-serif;
+}
+
+section {
+    padding-top: 4rem;
+  }
+
+/* font-family: 'Rubik', sans-serif; */
+/* font-family: 'Permanent Marker', cursive; */
